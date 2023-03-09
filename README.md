@@ -2,8 +2,7 @@
 
 I'm a software engineer in love with [flutter](https://flutter.dev/?gclid=Cj0KCQiA1sucBhDgARIsAFoytUvVAamXZi2JIBvdV8DRjAYJeAhpguIlAXmayaoJs75u6isoAD5iqXoaAkofEALw_wcB&gclsrc=aw.ds)
 
-- 🔭 I’m currently working on [My_Custom_Lints](https://github.com/marcotrumpet/my_custom_lints) package
-- 🌱 I’m currently learning Japanease
+- 🔭 I’m currently learning about mobile security
 - 👯 I’m looking to collaborate on openSource projects
 - 💬 Ask me about anything, probably I can't help you but I'll make you laugh
 - 📫 How to reach me: [Twitter](https://twitter.com/marco_galetta1)
